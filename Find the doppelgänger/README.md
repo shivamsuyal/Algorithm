@@ -38,9 +38,9 @@ The facial recognition software work something like this:
 Scan the recovered data file and find the twins id 
 (For finding the Id of a person just look for their indexes ie.
 
-Unique​_set         Index  Id  Person
+    Unique​_set         Index  Id  Person
 
-17,32,38,49,50,6    0      0   person1
+    17,32,38,49,50,6    0      0   person1
 
 27,3,66,1,0,55      1      1   person2
 
