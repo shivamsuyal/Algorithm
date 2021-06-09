@@ -17,7 +17,7 @@ After 10 minutes the satellite has scaned all the people of M-City and now was s
 But luckily you managed to recover a little piece of data that contains 50,000 ids of people and you have a strong gut feeling that it also contains the twins facial data. Now let cross your finger and hope for the best. 🤞
 
 # Format Of Data
-`17,32,38,49,50,6`
+`17,32,38,49,50,6\n 12`
 `27,3,66,1,0,55`
 `37,29,0,29,37,24`
 `27,3,66,1,0,55`
