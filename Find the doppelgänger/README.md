@@ -34,3 +34,17 @@ The facial recognition software work something like this:
 3. If it encounters twins the it provide them same numbers but with different sequence ie. If Twin1 have 1,2,3,4,5,6 the Twin2 won't have the same sequence of set but something like this 1,4,3,2,6,5 etc.
 4. When scan is completed it sends the data to the user.
 
+# Objective
+Scan the recovered data file and find the twins id 
+(For finding the Id of a person just look for their indexes ie.
+
+17,32,38,49,50,6 
+
+27,3,66,1,0,55
+
+37,29,0,29,37,24
+
+55,0,66,1,3,27
+
+)
+
