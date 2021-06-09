@@ -11,7 +11,12 @@ You accepted your task and started working on it. After few minutes you complete
 (M-City is a big country with an exception that in its population no one have twins, to be more clear if the hacker twins are there than they will be the only twins in the whole big country) 
 
 After 10 minutes the satellite has scaned all the people of M-City and now was sending the data back to you, but the hacker twins knew your plan so, that hacked the satellite and destroyed it completely
-But luckily you managed to recover a little piece of data that contains the data for 50,000 people and you have a strong gut feeling that it also contains the twins facial data. Now let cross your finger and hope for the best. 🤞
+But luckily you managed to recover a little piece of data that contains 50,000 ids of people and you have a strong gut feeling that it also contains the twins facial data. Now let cross your finger and hope for the best. 🤞
 
-
-
+# Format Of Data
+`
+17,32,38,49,50,6
+27,3,66,1,0,55
+37,29,0,29,37,24
+27,3,66,1,0,55
+`
