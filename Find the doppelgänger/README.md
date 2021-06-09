@@ -1,6 +1,13 @@
 # Find the doppelgänger
 
 # The Story Goes Something Like This... 
-You are a great or I say the best grey hat hacker and from past few 
+You are the Head Of CPU (not the computer's cpu but CPU as Crime Petrol Unit)... 
+Today you have a important task ie. to find the crazy hacker twins. 
+
+The twins have been robbing the banks for past few months and till now no one is able to catch them but today something gonna change.... 
+
+You accepted your task and started working on it... 
+
+
 
 
