@@ -35,8 +35,9 @@ The facial recognition software work something like this:
 4. When scan is completed it sends the data to the user.
 
 # Objective
-1. Scan the recovered data file and find the twins id 
-(For finding the Id of a person just look for their indexes ie.
+Scan the recovered data file and find the twins id 
+
+(For finding the Id of a person just look for their indexes ie.)
 
      Unique​_set         Index  Id  Person
 
@@ -50,7 +51,7 @@ The facial recognition software work something like this:
 
     and so on....
 
-)
 
-2. With the help of id find their location co-ordinates with the help of location file.
-3. Your program computation should be less than 20 seconds because the twins know that you are comming for them and they are ready to flee from the city.
+With the help of id find their location co-ordinates with the help of location file.
+
+Your program computation should be less than 20 seconds because the twins know that you are comming for them and they are ready to flee from the city.
