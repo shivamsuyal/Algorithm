@@ -1,4 +1,4 @@
-# Find the doppelgänger
+# Find The Hacker Twins
 
 # The Story Goes Something Like This... 
 You are one of the best programmer Of CPU (not the computer's cpu but CPU as Crime Petrol Unit)...
@@ -35,7 +35,7 @@ The facial recognition software work something like this:
 4. When scan is completed it sends the data to the user.
 
 # Objective
-Scan the recovered data file and find the twins id 
+1. Scan the recovered data file and find the twins id 
 (For finding the Id of a person just look for their indexes ie.
 
      Unique​_set         Index  Id  Person
@@ -52,3 +52,4 @@ Scan the recovered data file and find the twins id
 
 )
 
+2. Your program computation should be less than 15 seconds because the twins know that you are comming for them and they are ready to flee away
