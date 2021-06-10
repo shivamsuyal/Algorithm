@@ -54,4 +54,4 @@ The facial recognition software work something like this:
 
 [2]  With the help of id find their location co-ordinates with the help of location file.
 
-[3]  Your program computation should be less than 20 seconds because the twins know that you are comming for them and they are ready to flee from the city.
+[3]  Your program computation should be less than 15 seconds because the twins know that you are comming for them and they are ready to flee from the city.
