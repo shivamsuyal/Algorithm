@@ -19,13 +19,13 @@ But luckily you managed to recover a little piece of data that contains 50,000 i
 # Format Of Data
 The data will look like this...
 
-17,32,38,49,50,6
+    17,32,38,49,50,6
 
-27,3,66,1,0,55
+    27,3,66,1,0,55
 
-37,29,0,29,37,24
+    37,29,0,29,37,24
 
-55,0,66,1,3,27
+    55,0,66,1,3,27
 
 The facial recognition software work something like this:
 
